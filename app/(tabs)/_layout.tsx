@@ -5,6 +5,7 @@ import Colors from '@/constants/Colors'
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import Entypo from '@expo/vector-icons/Entypo';
 
+
 const TabsLayout = () => {
   return (
     <Tabs screenOptions={
@@ -30,6 +31,15 @@ const TabsLayout = () => {
                     return <Entypo name="open-book" size={24} color={color} />;
                 }
         }}/>
+
+        {/* <Tabs.Screen 
+            name="meditate" 
+            options={{
+                tabBarLabel: "Meditate",
+                tabBarIcon: ( { color } ) => {
+                    return <Entypo name="triangle-down" size={24} color={color} />;
+                }
+        }}/> */}
     </Tabs>
   )
 }
