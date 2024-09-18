@@ -6,7 +6,7 @@ This repository contains the source code for the Simple Meditation App, built us
 
 ## 🎥 Tutorial Reference
 
-This project is part of a comprehensive video tutorial available on FreeCodeCamp's YouTube channel. It walks you through the process of building the app step-by-step, making it perfect for visual learners!
+This project is part of a comprehensive tutorial available on freecodecamp.org. It walks you through the process of building the app step-by-step, making it perfect for visual learners!
 
 ---
 
