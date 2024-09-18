@@ -88,14 +88,14 @@ Check out the [Expo documentation](https://docs.expo.dev/workflow/android-studio
 ## 📁 Project Structure
 
 ```bash
-📂 simple-meditation-app
- ┣ 📂 assets        # Media files
- ┣ 📂 components    # Reusable UI components
- ┣ 📂 screens       # Screen components for the app
- ┣ 📂 hooks         # Custom hooks
- ┣ 📂 navigation    # Navigation setup
- ┣ 📂 utils         # Utility functions
- ┗ App.tsx          # Main entry point of the app
+📂 meditation-app
+ ┣ 📂 app
+ ┣ 📂 assets       
+ ┣ 📂 components   
+ ┣ 📂 constants       
+ ┣ 📂 hooks         
+ ┣ 📂 scripts         
+ ┗ App.tsx          
 ```
 
 ---
