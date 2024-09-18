@@ -94,8 +94,7 @@ Check out the [Expo documentation](https://docs.expo.dev/workflow/android-studio
  ┣ 📂 components   
  ┣ 📂 constants       
  ┣ 📂 hooks         
- ┣ 📂 scripts         
- ┗ App.tsx          
+ ┣ 📂 scripts                 
 ```
 
 ---
